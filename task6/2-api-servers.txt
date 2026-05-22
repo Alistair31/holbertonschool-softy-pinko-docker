@@ -1,0 +1,2 @@
+docker-compose build
+docker-compose up --scale softy-pinko-back-end=2
